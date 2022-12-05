@@ -1,1 +1,1 @@
-learning redirections
+hello world script
